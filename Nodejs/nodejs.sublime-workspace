@@ -1,0 +1,202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seart",
+				"searchText"
+			],
+			[
+				"search",
+				"searchModel"
+			],
+			[
+				"M",
+				"MovieModel"
+			],
+			[
+				"pace",
+				"paceText"
+			],
+			[
+				"distance",
+				"distanceInput"
+			],
+			[
+				"calcu",
+				"calculateBtn"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"random",
+				"randomInt"
+			],
+			[
+				"s",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_06_Homework_Files/JSF_Lesson_06_Starting_Files/Chapter_5/movies.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_06_Homework_Files/JSF_Lesson_06_Starting_Files/Chapter_5/movies.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_06_Homework_Files/JSF_Lesson_06_Starting_Files/Chapter_1/app.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_06_Homework_Files/JSF_Lesson_06_Starting_Files/Chapter_1/app.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_05_Homework_Files/JSF_Lesson_05_Starting_Files/Chapter_4/movies.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_05_Homework_Files/JSF_Lesson_05_Starting_Files/Chapter_4/movies.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_05_Homework_Files/JSF_Lesson_05_Starting_Files/Chapter_1/index.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_05_Homework_Files/JSF_Lesson_05_Starting_Files/Chapter_1/main.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_05_Homework_Files/JSF_Lesson_05_Starting_Files/Chapter_1/jquery-1.11.0.min.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_5/profile.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_5/mustache.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_5/profile.css",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_5/reset.css",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_5/profile.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_4/mustache.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_4/mustache_demo.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_4/mustache_demo.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_3/fragments.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_04_Homework_Files/JSF_Lesson_04_Completed_Files/Chapter_3/fragments.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_1/main.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_1/dom.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_5/calculator.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_5/calculator.css",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_5/calculator_final.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_5/calculator.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_4/positioning.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/JSF_All_Course_Assets/JSF_Lesson_03_Homework_Files/JSF_Lesson_03_Completed_Files/Chapter_4/positioning.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/methods.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/index.html",
+		"/Users/seanrogers/Documents/The Gym/Javascript/objects.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/arrays.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/functions.js",
+		"/Users/seanrogers/Documents/The Gym/Javascript/main.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}

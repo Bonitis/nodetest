@@ -1,0 +1,13 @@
+{
+	"name": "nodeIntro",
+	"version": "0.0.2",
+	"description": "",
+	"author": {
+		"name": "Sean Rogers",
+		"email": "smr04003@gmail.com",
+		"url": "",
+	},
+	"dependencies": {
+		"express": "*"
+	}
+}
