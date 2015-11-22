@@ -17,7 +17,7 @@ var app = express();
 
 // Server will be browsed at http://localhost:3000
 
-var root = _dirname
+var root = __dirname
   ,	port = 3000;
 
 
@@ -25,6 +25,30 @@ var root = _dirname
 
 app.use( express.static( root + "/public"));
 
+/** Create some Express routes **/
+
+app.get( "/hello", function helloCallback ( req, res  ) {
+
+	res.send( "Why, hello there!");
+
+});
+
+app.get("/someJSON", function someJSONCallback ( req, res ) {
+
+	res.json({
+		"one": {
+			"so": "cool"
+		},
+		"two": "super cool",
+		"three": ["love", "json", "and","JavaScript"]
+	});
+});
+
+app.get( "/beginning", function beginningCallback (req, res) {
+
+	res.send("<h1>This is just a beginning</h1><p>I love Node <3</p>" );
+
+});
 /** Start server on port 3000 **/
 
 app.listen( port, function listenCallback () {
